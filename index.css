@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #cbe2e6;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+.font-grey {
+    color: #000101;
+}
+
+.btn-secondary-2 {
+    color: #000101;
+    /* background-color: #6c757d; */
+    border-color: #000101;
+}
+.bg-dark-yaorozu {
+    background-color: #fffffg;!important;
+    color:#000101;
+}
+.lead-yao {
+    font-size: 1.10rem;
+    font-weight: 300;
+}
+
+.image-box {
+height: auto;
+width: auto;
+padding:10px;
+background: #d8c8c8;
+display: flex;
+margin: auto;
+  }
+  .image-card {
+height: auto;
+width: auto;
+padding: 4px;
+background: #f7e9e9;
+margin:auto;
+display: block;
+  }
+
+.img-card-inline{
+  text-align: center;
+}
