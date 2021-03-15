@@ -241,7 +241,7 @@
 
       <div class="row">
         <div class="d-md-flex">
-          <span><img src="872511.png" alt="" class="img-fluid"></span>
+          <span><img src="872512.png" alt="" class="img-fluid"></span>
           <span><img src="872505.png" alt="" class="img-fluid"></span>
           <span><img src="871825.png" alt="" class="img-fluid"></span>
           <span><img src="872404.png" alt="" class="img-fluid"></span>
