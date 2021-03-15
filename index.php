@@ -89,7 +89,7 @@
                 本当においしいものを生産するため有機栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://admin.thebase.in/shop_admin/design/preview" role="button">販売サイトへ</a>
+                <a class="btn btn-lg btn-danger" href="＃" role="button">販売サイトは7月よりオープンします</a>
               </p>
             </div>
           </div>
@@ -105,7 +105,7 @@
                 本当においしいものを生産するため有機栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://admin.thebase.in/shop_admin/design/preview" role="button">販売サイトへ</a>
+                <a class="btn btn-lg btn-danger" href="#" role="button">販売サイトは7月よりオープンします</a>
               </p>
             </div>
           </div>
