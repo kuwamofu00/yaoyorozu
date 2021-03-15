@@ -57,6 +57,7 @@
       <ol class="carousel-indicators">
         <li data-bs-target="#yaoyorozuCarousel" data-bs-slide-to="0" class="active"></li>
         <li data-bs-target="#yaoyorozuCarousel" data-bs-slide-to="1"></li>
+        <li data-bs-target="#yaoyorozuCarousel" data-bs-slide-to="2"></li>
         <!-- <li data-bs-target="#yaoyorozuCarousel" data-bs-slide-to="2"></li> -->
       </ol>
       <div class="carousel-inner">
@@ -164,7 +165,7 @@
             <span><img src="872407.png" alt="" class="img-fluid"></span>
           </div>
 
-        </div>
+        </div>            <span><img src="872492.png" alt="" class="img-fluid"></span>
       </div>
 
       <hr class="featurette-divider">
@@ -233,16 +234,22 @@
         </div>
       </div> -->
 
-      <hr class="featurette-divider">
 
       <div class="row">
         <div class="d-md-flex">
           <span><img src="872511.png" alt="" class="img-fluid"></span>
           <span><img src="872505.png" alt="" class="img-fluid"></span>
+          <span><img src="871825.png" alt="" class="img-fluid"></span>
           <span><img src="872404.png" alt="" class="img-fluid"></span>
+        </div>
+        <div class="d-md-flex">
+          <span><img src="871895.png" alt="" class="img-fluid"></span>
+          <span><img src="872408.png" alt="" class="img-fluid"></span>
+          <span><img src="872415.png" alt="" class="img-fluid"></span>
           <span><img src="871790.png" alt="" class="img-fluid"></span>
         </div>
       </div>
+
 
       <hr class="featurette-divider">
 
