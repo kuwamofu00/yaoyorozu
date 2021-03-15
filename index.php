@@ -263,7 +263,7 @@
 
     <!-- FOOTER -->
     <footer class="container">
-      <p class="float-end"><a href="#">トップに戻る</a></p>
+      <p class="float-end"><a href="#">トップに戻る</a></p>kuwa%Mofumofu@fuchikoma7
       <p>&copy; Yaoyorozu</p>
     </footer>
   </main>
