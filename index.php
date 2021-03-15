@@ -44,7 +44,7 @@
           </ul> -->
           <div class="me-auto"></div>
           <div class="d-flex nav-item">
-            <a class="nav-link btn btn-danger" href="#">販売サイトへ</a>
+            <a class="nav-link btn btn-danger" href="#">販売サイトは7月よりオープンします</a>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@
                 本当においしいものを生産するため有機栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://admin.thebase.in/shop_admin/design/preview" role="button">販売サイトへ</a>
+                <a class="btn btn-lg btn-danger" href="＃" role="button">販売サイトは7月よりオープンします</a>
               </p>
             </div>
           </div>
@@ -132,7 +132,7 @@
       <!-- START THE FEATURETTES -->
       <div class="row featurette">
         <div class="col-md-7">
-          <h3></span>土作りから</h3>
+          <h3>土作りから</h3>
           <p class="lead">
             7月上旬よりデラウェア、シャインマスカット、オクラの出荷が始まります。<br>
             本当においしいものを生産するため有機栽培にこだわっております。
@@ -172,7 +172,7 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h3>出荷まで</span></h3>
+          <h3>出荷まで</h3>
           <p class="lead">
             7月のぶどう作りでは毎朝早朝からぶどうの木や土をメンテナンスし
             実がなってくるとぶつかり合い潰れないようにするため、大きくなるまえに間引きという作業を行います。<br>
@@ -206,9 +206,9 @@
         </div>
       </div>
 
-      <hr class="featurette-divider">
+<!--      <hr class="featurette-divider">
 
-      <!-- <div class="row featurette">
+       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">最後にこれで、<span class="text-muted">チェックメイト。</span></h2>
           <p class="lead">吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くとそれは書生という人間中で一番獰悪な種族であったそうだ。</p>
@@ -219,21 +219,25 @@
         </div>
       </div>
 
-      <hr class="featurette-divider"> -->
+      <hr class="featurette-divider">
 
-      <!-- <div class="row featurette">
+      <div class="row featurette">
+-->
+<hr class="featurette-divider">
         <div>
-          <h2 class="featurette-heading">最後にこれで、<span class="text-muted">チェックメイト。</span></h2>
+          <h3>現在予定している販売価格（6月下旬に決定致します。）</span></h3>
           <p class="lead">
-            オクラの画像は現在準備中です<br>
+            ・オクラの価格は現在未定<br>
             ぶどうの価格は収穫量などにより多少変動することがございます。<br>
-            ・デラウェアだとおよそ1キロ（7房前後）2500円（税込み）<br>
-            ・シャインマスカットだと1キロ（3房前後）3500円（税込み）<br>
-            ※送料は別途発生致します。配送業者ヤマト運輸でお届け先によって金額が変化致します。
+            ・デラウェアは1キロ（7房前後）2500円（税込み）を予定しております。<br>
+            ・シャインマスカットは1.5キロ（3房前後）4000円（税込み）を予定しております。<br>
+            正確な金額は6月下旬に決定致します。
+            <br>
+            ※送料は別途発生致します。配送業者ヤマト運輸でお届け先によって金額が変化致します。<br>
           </p>
         </div>
-      </div> -->
 
+        <div class="row featurette">
 
       <div class="row">
         <div class="d-md-flex">
