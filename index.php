@@ -284,13 +284,13 @@
         <div class="d-md-flex">
           <span><img src="872511.png" alt="" class="img-fluid"></span>
           <span><img src="872505.png" alt="" class="img-fluid"></span>
-          <span><img src="871825.png" alt="" class="img-fluid"></span>
+          <span><img src="871857.png" alt="" class="img-fluid"></span>
           <span><img src="872404.png" alt="" class="img-fluid"></span>
         </div>
         <div class="d-md-flex">
-          <span><img src="872496.png" alt="" class="img-fluid"></span>
+          <span><img src="872442.png" alt="" class="img-fluid"></span>
           <span><img src="872408.png" alt="" class="img-fluid"></span>
-          <span><img src="872415.png" alt="" class="img-fluid"></span>
+          <span><img src="871820.png" alt="" class="img-fluid"></span>
           <span><img src="871790.png" alt="" class="img-fluid"></span>
         </div>
       </div>
