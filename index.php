@@ -127,8 +127,53 @@
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
-    <div class="container marketing">
 
+    <div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3></span>本当においしいものを届けたい</h3>
+          <p class="lead">
+            夏に生産する、レモン、オクラは完全無農薬でJAS認定の<br>
+            有機栽培になります。<br>
+            デラウェアは減農薬栽培で90％減です。ぶどうの実がなる<br>
+            初期のころに、ジベレリンという植物ホルモンを使用し、<br>
+            種無しぶどうを作るのに使用しています。植物ホルモンは、<br>
+            植物が種から実を結ぶのに必要なもので、危険といわれている<br>
+            環境ホルモンとは全く別物です。<br>
+            有機栽培が不可能といわれるぶどうですが、ほんとうにおいしい<br>
+            ものを届けたいと努力しております。ぶどうは糖度18以上に<br>
+            ならないと出荷しないよう注意しております。<br>
+            とくにシャインマスカットは緑ではなく完熟の黄色に近い実にな<br>
+            るのを待ちます。去年は糖度26というのもありました。<br>
+            オクラは完全無農薬で島オクラというオクラで種はその畑で取れ<br>
+            たオクラの種を使用しております。<br>
+            オクラの畑でその遺伝子を継ぐ伝統のオクラです。<br>
+            実のぷちぷちとした食感が良く、生き生きとしています。<br>
+            赤紫のオクラも稀に育ちます。
+      </p>
+        </div>
+        <div class="col-md-5">
+          <div class="d-md-flex">
+            <span><img src="872402.png" alt="" class="img-fluid"></span>
+            <span><img src="871767.png" alt="" class="img-fluid"></span>
+          </div>
+          <div class="d-md-flex">
+            <span><img src="871895.png" alt="" class="img-fluid"></span>
+            <span><img src="871897.png" alt="" class="img-fluid"></span>
+          </div>
+          <div class="d-md-flex">
+            <span><img src="872465.png" alt="" class="img-fluid"></span>
+            <span><img src="872415.png" alt="" class="img-fluid"></span>
+          </div>
+          <div class="d-md-flex">
+            <span><img src="872441.png" alt="" class="img-fluid"></span>
+          </div>
+
+        </div>
+      </div>
+
+    <div class="container marketing">
+  <hr class="featurette-divider">
       <!-- START THE FEATURETTES -->
       <div class="row featurette">
         <div class="col-md-7">
@@ -137,7 +182,7 @@
             7月上旬よりデラウェア、シャインマスカット、オクラの出荷が始まります。<br>
             本当においしいものを生産するため有機栽培や減農薬栽培にこだわっております。
             まずは農薬などの化学物質がない土地を選び、<br>素晴らしい出雲の大地を活かすため、<br>
-            化学肥料や農薬をほぼ使わず(一部身、身体に害のない植物性の液体などはぶどうの種無しにするため使用)、生えてきた雑草を抜き、畑に寝かせて肥料にしております。<br>
+            化学肥料や農薬をほぼ使わず(一部、身体に害のない植物性の液体などはぶどうを種無しにするため使用)、生えてきた雑草を抜き、畑に寝かせて肥料にしております。<br>
             しかしこれは非常に大変な作業で並大抵の事ではありません。<br>
             とても肥沃な土地の為、雑草はものすごい勢いで育ちます。<br>
             生えてくる間隔も短く、放置していると農作物はそだちません。<br>
@@ -243,7 +288,7 @@
           <span><img src="872404.png" alt="" class="img-fluid"></span>
         </div>
         <div class="d-md-flex">
-          <span><img src="871895.png" alt="" class="img-fluid"></span>
+          <span><img src="872496.png" alt="" class="img-fluid"></span>
           <span><img src="872408.png" alt="" class="img-fluid"></span>
           <span><img src="872415.png" alt="" class="img-fluid"></span>
           <span><img src="871790.png" alt="" class="img-fluid"></span>
