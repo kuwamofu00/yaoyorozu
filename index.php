@@ -44,7 +44,7 @@
           </ul> -->
           <div class="me-auto"></div>
           <div class="d-flex nav-item">
-            <a class="nav-link btn btn-danger" href="">販売サイトは7月中旬より</a>
+            <a class="nav-link btn btn-danger" href="https://Ar10se0938.thebase.in">販売サイト(シャインマスカットは7月中旬より発送)</a>
           </div>
         </div>
       </div>
@@ -66,13 +66,13 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(871867.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>2021年7月中旬より<br>デラウェア、シャインマスカット、オクラを販売</h2>
+              <h2>2021年7月より<br>デラウェア、シャインマスカット、オクラを販売</h2>
               <p>
-                いよいよ7月中旬より、シャインマスカットの販売が始まります。<br>
+                いよいよシャインマスカットの販売が始まります（シャインマスカットは7月中旬発送）。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="" role="button">販売サイトは7月中旬より</a>
+                <a class="btn btn-lg btn-danger" href="https://Ar10se0938.thebase.in">販売サイト(シャインマスカットは7月中旬より発送)</a>
               </p>
             </div>
           </div>
@@ -83,13 +83,13 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(872443.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>2021年7月中旬より<br>デラウェア、シャインマスカット、オクラを販売</h2>
+              <h2>2021年7月より<br>デラウェア、シャインマスカット、オクラを販売</h2>
               <p>
-                7月中旬よりデラウェアの出荷が始まります。<br>
+                7月よりデラウェアの出荷が始まります。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="">販売サイトは7月中旬より</a>
+                <a class="btn btn-lg btn-danger" href="https://Ar10se0938.thebase.in">販売サイト(シャインマスカットは7月中旬より発送)</a>
               </p>
             </div>
           </div>
@@ -99,13 +99,13 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(872416.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>2021年7月中旬より<br>デラウェア、シャインマスカット、オクラを販売</h2>
+              <h2>2021年7月より<br>デラウェア、シャインマスカット、オクラを販売</h2>
               <p>
-                7月中旬よりオクラの出荷が始まります。<br>
+                7月よりオクラの出荷が始まります。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="" role="button">販売サイトは7月中旬より</a>
+                <a class="btn btn-lg btn-danger" href="https://Ar10se0938.thebase.in">販売サイト(シャインマスカットは7月中旬より発送)</a>
               </p>
             </div>
           </div>
@@ -273,7 +273,7 @@
           <p class="lead">
             ・デラウェア 1キロ（6房前後） 送料込みで3400円予定（沖縄、北海道、東北以外）<br>
             ・シャインマスカット 1.2キロ（2房）送料込で4800円(沖縄、北海道、東北以外)<br>
-            島オクラの価格は現在調整中
+            ・島オクラ　1キロ　送料込みで3200円(沖縄、北海道、東北以外)<br>
           </p>
         </div>
       </div>
