@@ -1,0 +1,10 @@
+id
+client-id　データ型：smallint()
+client-name データ型：varchar(24)
+Street address データ型：varchar(128)
+tel　データ型：tinyint()
+products：商品名 データ型：varchar(128)
+price：商品価格 データ型：tinyint()
+amount：購入量 データ型：tinyint()
+Purchase date：購入日 データ型：datetime
+Date of shipment：発送日 データ型：datetime
