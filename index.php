@@ -44,7 +44,7 @@
           </ul> -->
           <div class="me-auto"></div>
           <div class="d-flex nav-item">
-            <a class="nav-link btn btn-danger" href="https://Ar10se0938.thebase.in">販売サイト(シャインマスカットは7月中旬より発送)</a>
+            <a class="nav-link btn btn-danger" href="">>販売サイト(シャインマスカット、島オクラは7月中旬より発送)</a>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://Ar10se0938.thebase.in">販売サイト(シャインマスカットは7月中旬より発送)</a>
+                <a class="btn btn-lg btn-danger" href="">>販売サイト(シャインマスカット、島オクラは7月中旬より発送)</a>
               </p>
             </div>
           </div>
@@ -89,7 +89,7 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://Ar10se0938.thebase.in">販売サイト(シャインマスカットは7月中旬より発送)</a>
+                <a class="btn btn-lg btn-danger" href="">>販売サイト(シャインマスカット、島オクラは7月中旬より発送)</a>
               </p>
             </div>
           </div>
@@ -105,7 +105,7 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://Ar10se0938.thebase.in">販売サイト(シャインマスカットは7月中旬より発送)</a>
+                <a class="btn btn-lg btn-danger" href="">>販売サイト(シャインマスカット、島オクラは7月中旬より発送)</a>
               </p>
             </div>
           </div>
