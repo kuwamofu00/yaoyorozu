@@ -44,7 +44,7 @@
           </ul> -->
           <div class="me-auto"></div>
           <div class="d-flex nav-item">
-            <a class="nav-link btn btn-danger" href="https://Ar10se0938.thebase.in">販売サイト(現在デラウェ出荷中)</a>
+            <a class="nav-link btn btn-danger" href="">販売サイト(現在デラウェ出荷中)</a>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://Ar10se0938.thebase.in">販売サイト(現在デラウェア出荷中)</a>
+                <a class="btn btn-lg btn-danger" href="">販売サイト(現在デラウェア出荷中)</a>
               </p>
             </div>
           </div>
@@ -89,7 +89,7 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://Ar10se0938.thebase.in">販売サイト(現在デラウェア出荷中)</a>
+                <a class="btn btn-lg btn-danger" href="">販売サイト(現在デラウェア出荷中)</a>
               </p>
             </div>
           </div>
@@ -105,7 +105,7 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://Ar10se0938.thebase.in">販売サイト(現在デラウェア出荷中)</a>
+                <a class="btn btn-lg btn-danger" href="">販売サイト(現在デラウェア出荷中)</a>
               </p>
             </div>
           </div>
@@ -269,14 +269,21 @@
 
       <div class="row featurette">
         <div>
-          <h2 class="featurette-heading">販売価格、出荷時期、配送について<span class="text-muted"></span></h2>
+          <h2 class="featurette-heading"><span class="text-muted">販売価格、出荷時期、配送について</span></h2>
           <p class="lead">
-            ・デラウェア 1キロ（6房前後） 送料込みで3400円（沖縄、北海道、東北以外）現在出荷可能<br><br>
-            ・シャインマスカット 1.2キロ（2房）送料込で4800円(沖縄、北海道、東北以外) 8月下旬より出荷<br><br>
-            ・島オクラ　1キロ　送料込みで3200円(沖縄、北海道、東北以外) 7月下旬より出荷<br><br>
-            ・配送について、繁忙期の業務都合上、誠に申し訳ございませんが、時間指定は可能ですが、<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;曜日指定を行っておりません。発送次第ご連絡致します。<br>
-            &nbsp;&nbsp;&nbsp;&nbsp;お手数おかけしますが、ご了承くださいますようお願い申し上げます。
+            【デラウェア 1キロ（6房前後）】<br>
+            ・送料込みで3400円（沖縄、北海道、東北以外）<br>
+            ・現在販売中<br><br>
+            【シャインマスカット 1.2キロ（2房）】<br>
+            ・送料込で4800円(沖縄、北海道、東北以外)<br>
+            ・8月下旬より出荷　販売サイトのお問い合わせより予約可能<br><br>
+            【島オクラ　1キロ】<br>
+            ・送料込みで3200円(沖縄、北海道、東北以外)<br>
+            ・7月下旬より出荷　販売サイトのお問い合わせより予約可能<br><br>
+            【配送について】<br>
+            繁忙期の業務都合上、誠に申し訳ございませんが、時間指定のみ可能であり、<br>
+            曜日指定は行っておりません。発送次第ご連絡致します。<br>
+            お手数おかけしますが、ご了承くださいますようお願い申し上げます。<br>
           </p>
         </div>
       </div>
