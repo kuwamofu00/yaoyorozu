@@ -44,7 +44,7 @@
           </ul> -->
           <div class="me-auto"></div>
           <div class="d-flex nav-item">
-            <a class="nav-link btn btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(現在デラウェ出荷中)</a>
+            <a class="nav-link btn btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(現在デラウェ販売中)</a>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(現在デラウェア出荷中)</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(現在デラウェア販売中)</a>
               </p>
             </div>
           </div>
@@ -89,7 +89,7 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(現在デラウェア出荷中)</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(現在デラウェア販売中)</a>
               </p>
             </div>
           </div>
@@ -105,7 +105,7 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(現在デラウェア出荷中)</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(現在デラウェア販売中)</a>
               </p>
             </div>
           </div>
