@@ -44,7 +44,7 @@
           </ul> -->
           <div class="me-auto"></div>
           <div class="d-flex nav-item">
-            <a class="nav-link btn btn-danger" href="">>販売サイト(シャインマスカット、島オクラは7月中旬より発送)</a>
+            <a class="nav-link btn btn-danger" href="">販売サイト(現在デラウェ出荷中)</a>
           </div>
         </div>
       </div>
@@ -66,13 +66,13 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(871867.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>2021年7月より<br>デラウェア、シャインマスカット、オクラを販売</h2>
+              <h2>2021年8月下旬より<br>シャインマスカット8月下旬より出荷</h2>
               <p>
-                いよいよシャインマスカットの販売が始まります（シャインマスカットは7月中旬発送）。<br>
+                いよいよシャインマスカットの販売が8月下旬より始まります。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="">>販売サイト(シャインマスカット、島オクラは7月中旬より発送)</a>
+                <a class="btn btn-lg btn-danger" href="">販売サイト(現在デラウェア出荷中)</a>
               </p>
             </div>
           </div>
@@ -83,13 +83,13 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(872443.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>2021年7月より<br>デラウェア、シャインマスカット、オクラを販売</h2>
+              <h2>2021年7月より<br>デラウェア出荷</h2>
               <p>
-                7月よりデラウェアの出荷が始まります。<br>
+                いよいよデラウェアの出荷が始まりました。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="">>販売サイト(シャインマスカット、島オクラは7月中旬より発送)</a>
+                <a class="btn btn-lg btn-danger" href="">販売サイト(現在デラウェア出荷中)</a>
               </p>
             </div>
           </div>
@@ -99,13 +99,13 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(872416.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>2021年7月より<br>デラウェア、シャインマスカット、オクラを販売</h2>
+              <h2>2021年7月下旬より<br>オクラを出荷</h2>
               <p>
-                7月よりオクラの出荷が始まります。<br>
+                7月下旬よりオクラの出荷が始まります。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="">>販売サイト(シャインマスカット、島オクラは7月中旬より発送)</a>
+                <a class="btn btn-lg btn-danger" href="">販売サイト(現在デラウェア出荷中)</a>
               </p>
             </div>
           </div>
@@ -133,7 +133,7 @@
         <div class="col-md-7">
           <h3></span>本当においしいものを届けたい</h3>
           <p class="lead">
-            今年も大変な夏がやって参りました。現在デラウェア、シャインマスカット、
+            今年も大変な夏がやって参りました。現在デラウェ&nbsp;ア、シャインマスカット、
             島オクラを生産しております。<br>島オクラは完全無農薬で
             JAS認定の有機栽培になります。<br>
             デラウェアは減農薬栽培で90％減です（ぶどうの実がなる<br>
@@ -180,9 +180,9 @@
         <div class="col-md-7">
           <h3></span>土作りから</h3>
           <p class="lead">
-            7月上旬よりデラウェア、シャインマスカット、オクラの出荷が始まります。<br>
-            本当においしいものを生産するため有機栽培や減農薬栽培にこだわっております。
-            まずは農薬などの化学物質がない土地を選び、<br>素晴らしい出雲の大地を活かすため、<br>
+            7月上旬よりデラウェア、7月下旬からオクラ、8月下旬からシャインマスカットの出荷が始まります。<br>
+            本当においしいものを生産するため有機栽培､減農薬栽培にこだわっております。
+            まずは農薬などの化学物質がない土地を選び、素晴らしい出雲の大地を活かすため、<br>
             化学肥料や農薬をほぼ使わず(一部、身体に害のない植物性の液体などはぶどうを種無しにするため使用)、生えてきた雑草を抜き、畑に寝かせて肥料にしております。<br>
             しかしこれは非常に大変な作業で並大抵の事ではありません。<br>
             とても肥沃な土地の為、雑草はものすごい勢いで育ちます。<br>
@@ -269,11 +269,14 @@
 
       <div class="row featurette">
         <div>
-          <h2 class="featurette-heading">販売価格について<span class="text-muted"></span></h2>
+          <h2 class="featurette-heading">販売価格、出荷時期、配送について<span class="text-muted"></span></h2>
           <p class="lead">
-            ・デラウェア 1キロ（6房前後） 送料込みで3400円（沖縄、北海道、東北以外）<br>
-            ・シャインマスカット 1.2キロ（2房）送料込で4800円(沖縄、北海道、東北以外)<br>
-            ・島オクラ　1キロ　送料込みで3200円(沖縄、北海道、東北以外)<br>
+            ・デラウェア 1キロ（6房前後） 送料込みで3400円（沖縄、北海道、東北以外）出荷中<br>
+            ・シャインマスカット 1.2キロ（2房）送料込で4800円(沖縄、北海道、東北以外) 8月下旬より出荷<br>
+            ・島オクラ　1キロ　送料込みで3200円(沖縄、北海道、東北以外) 7月下旬より出荷<br>
+            ・配送について、繁忙期の業務都合上、誠に申し訳ございませんが、時間指定は可能ですが、<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;曜日指定を行っておりません。発送次第ご連絡致します。<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;お手数おかけしますが、ご了承くださいますようお願い申し上げます。
           </p>
         </div>
       </div>
