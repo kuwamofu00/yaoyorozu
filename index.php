@@ -104,7 +104,7 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(現在デラウェア販売中)</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(オクラとシャインマスカット準備中)</a>
               </p>
             </div>
           </div>
