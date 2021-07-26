@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。">
-    <title>八百万の野菜</title>
+    <title>yaoyorozu yasai jas</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
@@ -44,7 +44,7 @@
           </ul> -->
           <div class="me-auto"></div>
           <div class="d-flex nav-item">
-            <a class="nav-link btn btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(現在デラウェ販売中)</a>
+            <a class="nav-link btn btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(オクラとシャインマスカット準備中)</a>
           </div>
         </div>
       </div>
@@ -66,13 +66,13 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(871867.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>2021年8月下旬より<br>シャインマスカット8月下旬より販売</h2>
+              <h2>2021年8月下旬より<br>シャインマスカット8月下旬より販売予定</h2>
               <p>
                 いよいよシャインマスカットの販売が8月下旬より始まります。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(現在デラウェア販売中)</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(オクラとシャインマスカット準備中)</a>
               </p>
             </div>
           </div>
@@ -83,13 +83,12 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(872443.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>2021年7月より<br>デラウェア販売</h2>
+              <h2>申し訳ございません。デラウェア販売終了致しました。<br>来年よろしくお願い致します。</h2>
               <p>
-                いよいよデラウェアの販売が始まりました。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(現在デラウェア販売中)</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(オクラとシャインマスカット準備中)</a>
               </p>
             </div>
           </div>
@@ -180,7 +179,7 @@
         <div class="col-md-7">
           <h3></span>土作りから</h3>
           <p class="lead">
-            7月上旬よりデラウェア、7月下旬からオクラ、8月下旬からシャインマスカットの販売が始まります。<br>
+            7月下旬からオクラ、8月下旬からシャインマスカットの販売が始まります。<br>
             本当においしいものを生産するため有機栽培､減農薬栽培にこだわっております。
             まずは農薬などの化学物質がない土地を選び、素晴らしい出雲の大地を活かすため、<br>
             化学肥料や農薬をほぼ使わず(一部、身体に害のない植物性の液体などはぶどうを種無しにするため使用)、生えてきた雑草を抜き、畑に寝かせて肥料にしております。<br>
@@ -271,10 +270,10 @@
         <div>
           <h2 class="featurette-heading"><span class="text-muted">販売価格、販売時期、配送について</span></h2>
           <p class="lead">
-            【デラウェア 1キロ（6房前後）】<br>
+            <!-- 【デラウェア 1キロ（6房前後）】<br>
             ・送料込みで3400円（沖縄、北海道 以外）<br>
             ・沖縄：税込み3800円、北海道：税込み4000円<br>
-            ・現在販売中<br><br>
+            ・現在販売中<br><br> -->
 
             【シャインマスカット 1.2キロ（2房）】<br>
             ・送料込で4800円(沖縄、北海道 以外)<br>
