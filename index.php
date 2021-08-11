@@ -44,7 +44,7 @@
           </ul> -->
           <div class="me-auto"></div>
           <div class="d-flex nav-item">
-            <a class="nav-link btn btn-danger" href="https://ar10se0938.thebase.in/">販売サイト</a>
+            <a class="nav-link btn btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
               </p>
             </div>
           </div>
@@ -88,22 +88,39 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
               </p>
             </div>
           </div>
         </div>
         <!-- ./carousel-item -->
         <div class="carousel-item carousel-item３ bg-secondary">
-          <span class="bd-placeholder-img d-block" style="background-image: url(872416.png);"></span>
+          <span class="bd-placeholder-img d-block" style="background-image: url(okura-1.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
               <h2>オクラ販売中</h2>
-              <p>
+              <p>オクラの畑でその遺伝子を継ぐ伝統のオクラ<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
                 <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト</a>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- ./carousel-item -->
+        <div class="carousel-item carousel-item３ bg-secondary">
+          <span class="bd-placeholder-img2 d-block" style="background-image: url(polyphenol.png);"></span>
+          <div class="container">
+            <div class="carousel-caption2 text-start">
+              <h2>ポリフェノールが通常のデラウェアより20倍多い</h2>
+              <p>1億4300年前からあるの若返りの果実<br>
+                ポリフェノールは、強い抗酸化力を持ち、ストレスなど生活の様々な場面で発生する活性酸素を除去し、体が酸化することを防ぎます。
+                又、レスベラトロールという成分もあり「若返りの成分」とも呼ばれ注目を集めております。
+              </p>
+              <p>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
               </p>
             </div>
           </div>
@@ -162,7 +179,7 @@
           </div>
           <div class="d-md-flex">
             <span><img src="872465.png" alt="" class="img-fluid"></span>
-            <span><img src="872415.png" alt="" class="img-fluid"></span>
+            <span><img src="872416.png" alt="" class="img-fluid"></span>
           </div>
           <div class="d-md-flex">
             <span><img src="872441.png" alt="" class="img-fluid"></span>
