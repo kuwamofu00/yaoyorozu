@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。">
-    <title>yaoyorozu yasai jas</title>
+    <title>八百万の野菜</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
@@ -44,7 +44,7 @@
           </ul> -->
           <div class="me-auto"></div>
           <div class="d-flex nav-item">
-            <a class="nav-link btn btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(オクラとシャインマスカット準備中)</a>
+            <a class="nav-link btn btn-danger" href="https://ar10se0938.thebase.in/">販売サイト</a>
           </div>
         </div>
       </div>
@@ -66,13 +66,13 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(871867.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>2021年8月下旬より<br>シャインマスカット8月下旬より販売予定</h2>
+              <h2>8月中旬頃より<br>シャインマスカット8月中旬頃より販売予定</h2>
               <p>
-                いよいよシャインマスカットの販売が8月下旬より始まります。<br>
+                いよいよシャインマスカットの販売が8月中旬頃より始まります。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(オクラとシャインマスカット準備中)</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト</a>
               </p>
             </div>
           </div>
@@ -88,7 +88,7 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(オクラとシャインマスカット準備中)</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト</a>
               </p>
             </div>
           </div>
@@ -98,13 +98,12 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(872416.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>2021年7月下旬より<br>オクラを販売</h2>
+              <h2>オクラ販売中</h2>
               <p>
-                7月下旬よりオクラの販売が始まります。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(オクラとシャインマスカット準備中)</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト</a>
               </p>
             </div>
           </div>
@@ -179,7 +178,7 @@
         <div class="col-md-7">
           <h3></span>土作りから</h3>
           <p class="lead">
-            7月下旬からオクラ、8月下旬からシャインマスカットの販売が始まります。<br>
+            8月中旬頃からシャインマスカットの販売が始まります。<br>
             本当においしいものを生産するため有機栽培､減農薬栽培にこだわっております。
             まずは農薬などの化学物質がない土地を選び、素晴らしい出雲の大地を活かすため、<br>
             化学肥料や農薬をほぼ使わず(一部、身体に害のない植物性の液体などはぶどうを種無しにするため使用)、生えてきた雑草を抜き、畑に寝かせて肥料にしております。<br>
@@ -281,8 +280,8 @@
             ・8月下旬より販売　販売サイトのお問い合わせより予約可能<br><br>
 
             【島オクラ　1キロ】<br>
-            ・送料込みで3200円(沖縄、北海道 以外)<br>
-            ・沖縄：税込み3600円、北海道：税込み3800円<br>
+            ・送料込みで2980円(沖縄、北海道 以外)<br>
+            ・沖縄：税込み3380円、北海道：税込み3580円<br>
             ・8月上旬より販売開始　販売サイトのお問い合わせより予約可能<br><br>
             【配送について】<br>
             繁忙期の業務都合上、誠に申し訳ございませんが、時間指定のみ可能であり、曜日指定は行っておりません。発送次第ご連絡致します。<br>
