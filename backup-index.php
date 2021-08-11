@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。">
-    <title>八百万の野菜</title>
+    <title>yaoyorozu yasai jas</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
@@ -44,7 +44,7 @@
           </ul> -->
           <div class="me-auto"></div>
           <div class="d-flex nav-item">
-            <a class="nav-link btn btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
+            <a class="nav-link btn btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(オクラとシャインマスカット準備中)</a>
           </div>
         </div>
       </div>
@@ -66,13 +66,13 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(871867.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>8月中旬頃より<br>シャインマスカット8月中旬頃より販売予定</h2>
+              <h2>2021年8月下旬より<br>シャインマスカット8月下旬より販売予定</h2>
               <p>
-                いよいよシャインマスカットの販売が8月中旬頃より始まります。<br>
+                いよいよシャインマスカットの販売が8月下旬より始まります。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(オクラとシャインマスカット準備中)</a>
               </p>
             </div>
           </div>
@@ -88,39 +88,23 @@
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(オクラとシャインマスカット準備中)</a>
               </p>
             </div>
           </div>
         </div>
         <!-- ./carousel-item -->
         <div class="carousel-item carousel-item３ bg-secondary">
-          <span class="bd-placeholder-img d-block" style="background-image: url(okura-1.png);"></span>
+          <span class="bd-placeholder-img d-block" style="background-image: url(872416.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>オクラ販売中</h2>
-              <p>オクラの畑でその遺伝子を継ぐ伝統のオクラ<br>
+              <h2>2021年7月下旬より<br>オクラを販売</h2>
+              <p>
+                7月下旬よりオクラの販売が始まります。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト</a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <!-- ./carousel-item -->
-        <div class="carousel-item carousel-item３ bg-secondary">
-          <span class="bd-placeholder-img2 d-block" style="background-image: url(polyphenol.png);"></span>
-          <div class="container">
-            <div class="carousel-caption2 text-start">
-              <h2>ポリフェノールが通常のデラウェアより20倍多い</h2>
-              <p>1億4300年前からあるの若返りの果実<br>
-                ポリフェノールは、強い抗酸化力を持ち、ストレスなど生活の様々な場面で発生する活性酸素を除去し、体が酸化することを防ぎます。
-                又、レスベラトロールという成分もあり「若返りの成分」とも呼ばれ注目を集めております。
-              </p>
-              <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト(オクラとシャインマスカット準備中)</a>
               </p>
             </div>
           </div>
@@ -151,20 +135,24 @@
             今年も大変な夏がやって参りました。現在デラウェ&nbsp;ア、シャインマスカット、
             島オクラを生産しております。<br>島オクラは完全無農薬で
             JAS認定の有機栽培になります。<br>
-            デラウェアは減農薬栽培で90％減です。ぶどうの実がなる
-            初期のころに、ジベレリンという植物ホルモンを使用し、
-            種無しぶどうを作るのに使用しています。植物ホルモンは、
-            植物が種から実を結ぶのに必要なもので、危険といわれている
-            環境ホルモンとは全く別物です。有機栽培が不可能といわれるぶどうですが、ほんとうにおいしいものを届けたいと努力しております。<br>
-            シャインマスカットは完熟させると黄色くなって糖度も高くなるのですが、
+            デラウェアは減農薬栽培で90％減です（ぶどうの実がなる<br>
+            初期のころに、ジベレリンという植物ホルモンを使用し、<br>
+            種無しぶどうを作るのに使用しています。植物ホルモンは、<br>
+            植物が種から実を結ぶのに必要なもので、危険といわれている<br>
+            環境ホルモンとは全く別物です。）<br>
+            有機栽培が不可能といわれるぶどうですが、ほんとうにおいしい<br>
+            ものを届けたいと努力しております。ぶどうは糖度18以上に<br>
+            ならないと出荷しないよう注意しております。<br>
+            シャインマスカットはシャインマスカットは完熟させると黄色くなって糖度も高くなるのですが、
             マスカットの香りが薄くなって、食感もシャイン独特のパリッとする歯ごたえがなくなってきます。
             又、黄色くなるまで熟してくると、かすり症という生理障害がでて、粒の表面が茶色く汚れてしまいます。
-            ですので、シャインマスカットの出荷基準の糖度は18度以上になったら
+            ですので、シャインの出荷基準の糖度は18度以上になったら
             見た目も味も香りも一番いいときに出荷致します。<br>
-            オクラは完全無農薬で島オクラというオクラで種はその畑で取れ
-            たオクラの種を使用しております。
-            オクラの畑でその遺伝子を継ぐ伝統のオクラです。
-            実のぷちぷちとした食感が良く、生き生きとしています。
+            <br>
+            オクラは完全無農薬で島オクラというオクラで種はその畑で取れ<br>
+            たオクラの種を使用しております。<br>
+            オクラの畑でその遺伝子を継ぐ伝統のオクラです。<br>
+            実のぷちぷちとした食感が良く、生き生きとしています。<br>
             赤紫のオクラも稀に育ちます。
       </p>
         </div>
@@ -179,7 +167,7 @@
           </div>
           <div class="d-md-flex">
             <span><img src="872465.png" alt="" class="img-fluid"></span>
-            <span><img src="872416.png" alt="" class="img-fluid"></span>
+            <span><img src="872415.png" alt="" class="img-fluid"></span>
           </div>
           <div class="d-md-flex">
             <span><img src="872441.png" alt="" class="img-fluid"></span>
@@ -195,7 +183,7 @@
         <div class="col-md-7">
           <h3></span>土作りから</h3>
           <p class="lead">
-            8月中旬頃からシャインマスカットの販売が始まります。<br>
+            7月下旬からオクラ、8月下旬からシャインマスカットの販売が始まります。<br>
             本当においしいものを生産するため有機栽培､減農薬栽培にこだわっております。
             まずは農薬などの化学物質がない土地を選び、素晴らしい出雲の大地を活かすため、<br>
             化学肥料や農薬をほぼ使わず(一部、身体に害のない植物性の液体などはぶどうを種無しにするため使用)、生えてきた雑草を抜き、畑に寝かせて肥料にしております。<br>
@@ -297,9 +285,9 @@
             ・8月下旬より販売　販売サイトのお問い合わせより予約可能<br><br>
 
             【島オクラ　1キロ】<br>
-            ・送料込みで2980円(沖縄、北海道 以外)<br>
-            ・沖縄：税込み3380円、北海道：税込み3580円<br>
-            ・8月上旬より販売開始　販売サイトのお問い合わせより予約可能<br><br>
+            ・送料込みで3200円(沖縄、北海道 以外)<br>
+            ・沖縄：税込み3600円、北海道：税込み3800円<br>
+            ・7月下旬より販売　販売サイトのお問い合わせより予約可能<br><br>
             【配送について】<br>
             繁忙期の業務都合上、誠に申し訳ございませんが、時間指定のみ可能であり、曜日指定は行っておりません。発送次第ご連絡致します。<br>
             お手数おかけしますが、ご了承くださいますようお願い申し上げます。<br>
