@@ -66,7 +66,7 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(871867.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>8月中旬頃より<br>シャインマスカット8月中旬頃より販売予定</h2>
+              <h2>8月中旬頃より<br>シャインマスカット販売予定</h2>
               <p>
                 いよいよシャインマスカットの販売が8月中旬頃より始まります。<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
@@ -115,7 +115,7 @@
           <div class="container">
             <div class="carousel-caption2 text-start">
               <h2>ポリフェノールが通常のデラウェアより20倍多い</h2>
-              <p>1億4300万年前からあるの若返りの果実<br>
+              <p>1億4300万年前からある若返りの果実<br>
                 ポリフェノールは、強い抗酸化力を持ち、ストレスなど生活の様々な場面で発生する活性酸素を除去し、体が酸化することを防ぎます。
                 又、レスベラトロールという成分もあり「若返りの成分」とも呼ばれ注目を集めております。
               </p>
