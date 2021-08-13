@@ -44,6 +44,8 @@ body {
   height: 100%;
   background-position: center center;
 }
+
+
 /* .yaoyorozu-carousel .carousel-item1 .bd-placeholder-img {
   opacity: .7;
 } */
@@ -56,6 +58,13 @@ body {
   background-position: center center;
 }
 
+.bd-placeholder-img3 {
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+}
 
 
 /* MARKETING CONTENT

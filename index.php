@@ -95,7 +95,7 @@
         </div>
         <!-- ./carousel-item -->
         <div class="carousel-item carousel-item３ bg-secondary">
-          <span class="bd-placeholder-img d-block" style="background-image: url(okura-1.png);"></span>
+          <span class="bd-placeholder-img3 d-block" style="background-image: url(okura-1.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
               <h2>オクラ販売中</h2>
@@ -110,7 +110,7 @@
         </div>
 
         <!-- ./carousel-item -->
-        <div class="carousel-item carousel-item３ bg-secondary">
+        <div class="carousel-item carousel-item4 bg-secondary">
           <span class="bd-placeholder-img2 d-block" style="background-image: url(polyphenol.png);"></span>
           <div class="container">
             <div class="carousel-caption2 text-start">
