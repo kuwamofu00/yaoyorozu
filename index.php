@@ -66,7 +66,7 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(871867.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>8月中旬頃より<br>シャインマスカット販売予定</h2>
+              <h2>シャインマスカット販売中</h2>
               <p>
                 シャインマスカット販売中<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
