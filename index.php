@@ -314,12 +314,6 @@
         </body>
           <span><img src="871790.png" alt="" class="img-fluid"></span>
       </div>
-
-
-      <hr class="featurette-divider">
-
-      <!-- /END THE FEATURETTES -->
-
     </div><!-- /.container -->
 
     <!-- FOOTER -->
