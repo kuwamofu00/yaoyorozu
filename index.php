@@ -320,7 +320,7 @@
       <!-- /END THE FEATURETTES -->
 
     </div><!-- /.container -->
-
+<!----!>
     <!-- FOOTER -->
     <footer class="container">
       <p class="float-end"><a href="#top">トップに戻る</a></p>
