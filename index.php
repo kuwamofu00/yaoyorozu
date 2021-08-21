@@ -180,13 +180,13 @@
             <span><img src="872416.png" alt="" class="img-fluid"></span>
           </div>
           <div class="d-md-flex">
+            <span><img src="okura-1.png" alt="" class="img-fluid"></span>
+            <span><img src="okura-2.png" alt="" class="img-fluid"></span>
+          </div>
+          <!-- <div class="d-md-flex">
             <span><img src="872465.png" alt="" class="img-fluid"></span>
             <span><img src="872416.png" alt="" class="img-fluid"></span>
-          </div>
-          <div class="d-md-flex">
-            <span><img src="872465.png" alt="" class="img-fluid"></span>
-            <span><img src="872416.png" alt="" class="img-fluid"></span>
-          </div>
+          </div> -->
           <div class="d-md-flex">
             <span><img src="872441.png" alt="" class="img-fluid"></span>
           </div>
@@ -309,11 +309,16 @@
         <div class="d-md-flex">
           <span><img src="872442.png" alt="" class="img-fluid"></span>
           <span><img src="872408.png" alt="" class="img-fluid"></span>
-        </div>
           <span><img src="871820.png" alt="" class="img-fluid"></span>
-        </body>
           <span><img src="871790.png" alt="" class="img-fluid"></span>
+        </div>
       </div>
+
+
+      <hr class="featurette-divider">
+
+      <!-- /END THE FEATURETTES -->
+
     </div><!-- /.container -->
 
     <!-- FOOTER -->
