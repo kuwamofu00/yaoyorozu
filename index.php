@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ja" class="h-100"><head>
     <meta charset="utf-8">
@@ -69,7 +68,7 @@
             <div class="carousel-caption text-start">
               <h2>8月中旬頃より<br>シャインマスカット販売予定</h2>
               <p>
-                いよいよシャインマスカットの販売が8月中旬頃より始まります。<br>
+                シャインマスカット販売中<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
@@ -310,9 +309,10 @@
         <div class="d-md-flex">
           <span><img src="872442.png" alt="" class="img-fluid"></span>
           <span><img src="872408.png" alt="" class="img-fluid"></span>
-          <span><img src="871820.png" alt="" class="img-fluid"></span>
-          <span><img src="871790.png" alt="" class="img-fluid"></span>
         </div>
+          <span><img src="871820.png" alt="" class="img-fluid"></span>
+        </body>
+          <span><img src="871790.png" alt="" class="img-fluid"></span>
       </div>
 
 
@@ -331,5 +331,4 @@
 
   <!-- JavaScript Bundle with Popper -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
-</body>
 </html>
