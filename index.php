@@ -137,29 +137,19 @@
         <span class="visually-hidden">次へ</span>
       </a>
     </div>
-
-
-    <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-
-
     <div class="container marketing">
       <div class="row featurette">
         <div class="col-md-7">
           <h3></span>本当においしいものを届けたい</h3>
           <p class="lead">
-            今年も大変な夏がやって参りました。現在デラウェ&nbsp;ア、シャインマスカット、
-            島オクラを生産しております。<br>島オクラは完全無農薬で
-            JAS認定の有機栽培になります。<br>
-            デラウェアは減農薬栽培で90％減です。ぶどうの実がなる
+            今年も大変な夏がやって参りました。シャインマスカット、
+            島オクラを生産しております。島オクラは完全無農薬で
+            JAS認定の有機栽培になります。デラウェアは減農薬栽培で90％減です。ぶどうの実がなる
             初期のころに、ジベレリンという植物ホルモンを使用し、
             種無しぶどうを作るのに使用しています。植物ホルモンは、
             植物が種から実を結ぶのに必要なもので、危険といわれている
-            環境ホルモンとは全く別物です。<br>
-            シャインマスカットは50%農薬をカットした減農薬栽培です。
-            化学肥料は使っておらず、有機肥料のみ使Carousel" data-bs-slide-to="2"></li>
-        <!-- <li data-bs-target="#yaoy用しております。
+            環境ホルモンとは全く別物です。シャインマスカットは50%農薬をカットした減農薬栽培です。
+            化学肥料は使っておらず、有機肥料のみ使用しております。
             有機JASで使えるなるべく人体に害の少ないものを使用しております。
             シャインマスカットは有機が特に難しく、1つでも農薬を減らすと病気や虫が出る可能性が高く、
             そのリスクもありますが、皮ごと食べられるので、なるべく農薬の回数を減らすことを心がけています。
@@ -283,21 +273,6 @@
 
         </div>
       </div>
-
-      <hr class="featurette-divider">
-
-      <!-- <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">最後にこれで、<span class="text-muted">チェックメイト。</span></h2>
-          <p class="lead">吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くとそれは書生という人間中で一番獰悪な種族であったそうだ。</p>
-        </div>
-        <div class="col-md-5">
-          <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
-
-        </div>
-      </div>
-
-      <hr class="featurette-divider"> -->
 
       <div class="row featurette">
         <div>
