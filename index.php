@@ -66,7 +66,7 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(871867.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>シャインマスカット販売中</h2>
+              <h2>8月中旬頃より<br>シャインマスカット販売予定</h2>
               <p>
                 シャインマスカット販売中<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
@@ -141,7 +141,7 @@
         <div class="col-md-7">
           <h3></span>本当においしいものを届けたい</h3>
           <p class="lead">
-            今年も大変な夏がやって参りました。現在、シャインマスカットと
+            今年も大変な夏がやって参りました。シャインマスカット、
             島オクラを生産しております。島オクラは完全無農薬で
             JAS認定の有機栽培になります。デラウェアは減農薬栽培で90％減です。ぶどうの実がなる
             初期のころに、ジベレリンという植物ホルモンを使用し、
@@ -201,7 +201,7 @@
         <div class="col-md-7">
           <h3></span>土作りから</h3>
           <p class="lead">
-            現在シャインマスカット、オクラを販売中です<br>
+            8月中旬頃からシャインマスカットの販売が始まります。<br>
             本当においしいものを生産するため有機栽培､減農薬栽培にこだわっております。
             まずは農薬などの化学物質がない土地を選び、素晴らしい出雲の大地を活かすため、<br>
             化学肥料や農薬をほぼ使わず(一部、身体に害のない植物性の液体などはぶどうを種無しにするため使用)、生えてきた雑草を抜き、畑に寝かせて肥料にしております。<br>
@@ -302,7 +302,8 @@
       <div class="row">
         <div class="d-md-flex">
           <span><img src="872511.png" alt="" class="img-fluid"></span>
-          <span><img src="872505.png" alt="" class="img-fluid"></span>
+          <span><img src="heart.png" alt="" class="img-fluid"></span>
+          <!-- <span><img src="872505.png" alt="" class="img-fluid"></span> -->
           <span><img src="871857.png" alt="" class="img-fluid"></span>
           <span><img src="872404.png" alt="" class="img-fluid"></span>
         </div>
@@ -320,13 +321,14 @@
       <!-- /END THE FEATURETTES -->
 
     </div><!-- /.container -->
-<!----!>
+
     <!-- FOOTER -->
     <footer class="container">
       <p class="float-end"><a href="#top">トップに戻る</a></p>
       <p>&copy; Yaoyorozu</p>
     </footer>
   </main>
+
   <!-- JavaScript Bundle with Popper -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 </html>
