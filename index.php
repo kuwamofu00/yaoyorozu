@@ -68,7 +68,7 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(ninjin2-yoko.png);"></span>
             <div class="container">
             <div class="carousel-caption text-start">
-              <h2>八百万のにんじん販売中</h2>
+              <h2>八百万のにんじん　現在サイト構築中</h2>
               <p>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
@@ -84,7 +84,7 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(meyer-lemon.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>Meyer Lemon(マイヤーレモン)販売中</h2>
+              <h2>Meyer Lemon(マイヤーレモン)現在サイト構築中</h2>
               <p>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
