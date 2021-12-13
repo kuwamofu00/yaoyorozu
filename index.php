@@ -63,12 +63,13 @@
       <div class="carousel-inner">
         <!-- carousel-item -->
         <div class="carousel-item carousel-item1 active bg-secondary">
-          <span class="bd-placeholder-img d-block" style="background-image: url(871867.png);"></span>
-          <div class="container">
+          <!-- <span class="bd-placeholder-img d-block" style="background-image: url(ninjinbatake-800-450.png);"></span> -->
+          <!-- <span class="bd-placeholder-img d-block" style="background-image: url(ninjinbatake.png);"></span> -->
+          <span class="bd-placeholder-img d-block" style="background-image: url(ninjin2-yoko.png);"></span>
+            <div class="container">
             <div class="carousel-caption text-start">
-              <h2>8月中旬頃より<br>シャインマスカット販売予定</h2>
+              <h2>八百万のにんじん販売中</h2>
               <p>
-                シャインマスカット販売中<br>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
               <p>
@@ -80,44 +81,12 @@
         <!-- ./carousel-item -->
         <!-- carousel-item -->
         <div class="carousel-item carousel-item2 bg-secondary">
-          <span class="bd-placeholder-img d-block" style="background-image: url(872443.png);"></span>
+          <span class="bd-placeholder-img d-block" style="background-image: url(meyer-lemon.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>申し訳ございません。デラウェア販売終了致しました。<br>来年よろしくお願い致します。</h2>
+              <h2>Meyer Lemon(マイヤーレモン)販売中</h2>
               <p>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
-              </p>
-              <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
-              </p>
-            </div>
-          </div>
-        </div>
-        <!-- ./carousel-item -->
-        <div class="carousel-item carousel-item３ bg-secondary">
-          <span class="bd-placeholder-img3 d-block" style="background-image: url(okura-1.png);"></span>
-          <div class="container">
-            <div class="carousel-caption text-start">
-              <h2>オクラ販売中</h2>
-              <p>オクラの畑でその遺伝子を継ぐ伝統のオクラ<br>
-                本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
-              </p>
-              <p>
-                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト</a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <!-- ./carousel-item -->
-        <div class="carousel-item carousel-item4 bg-secondary">
-          <span class="bd-placeholder-img2 d-block" style="background-image: url(polyphenol.png);"></span>
-          <div class="container">
-            <div class="carousel-caption2 text-start">
-              <h2>ポリフェノールが通常のデラウェアより20倍多い</h2>
-              <p>1億4300万年前からある若返りの果実<br>
-                ポリフェノールは、強い抗酸化力を持ち、ストレスなど生活の様々な場面で発生する活性酸素を除去し、体が酸化することを防ぎます。
-                又、レスベラトロールという成分もあり「若返りの成分」とも呼ばれ注目を集めております。
               </p>
               <p>
                 <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
@@ -139,58 +108,32 @@
     <div class="container marketing">
       <div class="row featurette">
         <div class="col-md-7">
-          <h3></span>本当においしいものを届けたい</h3>
+          <h3></span>八百万のにんじん</h3>
           <p class="lead">
-            今年も大変な夏がやって参りました。シャインマスカット、
-            島オクラを生産しております。島オクラは完全無農薬で
-            JAS認定の有機栽培になります。デラウェアは減農薬栽培で90％減です。ぶどうの実がなる
-            初期のころに、ジベレリンという植物ホルモンを使用し、
-            種無しぶどうを作るのに使用しています。植物ホルモンは、
-            植物が種から実を結ぶのに必要なもので、危険といわれている
-            環境ホルモンとは全く別物です。シャインマスカットは50%農薬をカットした減農薬栽培です。
-            化学肥料は使っておらず、有機肥料のみ使用しております。
-            有機JASで使えるなるべく人体に害の少ないものを使用しております。
-            シャインマスカットは有機が特に難しく、1つでも農薬を減らすと病気や虫が出る可能性が高く、
-            そのリスクもありますが、皮ごと食べられるので、なるべく農薬の回数を減らすことを心がけています。
-            簡単にはいきませんが、シャインマスカットの完全有機栽培をめざし努力しております。
-            シャインマスカットは700gを超えてくると糖度がのりにくくなります。600〜650gが理想かと思います。
-            また、完熟させると黄色くなって糖度も高くなるのですが、
-            マスカットの香りが薄くなって、食感もシャイン独特のパリッとする歯ごたえがなくなってきます。
-            又、黄色くなるまで熟してくると、かすり症という生理障害がでて、粒の表面が茶色く汚れてしまいます。
-            ですので、シャインマスカットの出荷基準の糖度は18度以上になったら
-            見た目も味も香りも一番いいときに出荷致します。<br>
-            オクラは完全無農薬で島オクラというオクラで種はその畑で取れ
-            たオクラの種を使用しております。
-            オクラの畑でその遺伝子を継ぐ伝統のオクラです。
-            実のぷちぷちとした食感が良く、生き生きとしています。
-            赤紫のオクラも稀に育ちます。
+            2021年もわずかとなりましたが、いかがお過ごしでしょうか？
+            色々なことが世の中ありますが、健康であることが幸せの第一歩で
+            あるかとおもいます。<br>良い年を迎えられるよう来年を元気に乗り越えられるよう
+            「八百万のにんじん」はいかがでしょう？<br>出雲市で唯一の有機JASの人参です
+            全国の神々が集まる出雲大社の土地で栽培された縁起の良い人参と言うことで
+            「八百万にんじん」と命名しました。<br>これを口にする人が神々のパワーで
+            少しでも幸せになれるようにと願いと、栄養がぎゅっと詰まってます。
+            <br>人参は煮物、サラダ　スープ等に使用できる万能野菜です。
+            使用頻度の高い野菜だからこそ、汚染の無い土、海からの潮風、
+            太陽の光をいっぱい浴びた当園の人参を、是非、体の中から感じてみてくだい。
       </p>
         </div>
         <div class="col-md-5">
           <div class="d-md-flex">
-            <span><img src="872402.png" alt="" class="img-fluid"></span>
-            <span><img src="871767.png" alt="" class="img-fluid"></span>
+            <span><img src="ninjinbatake-800-450.png" alt="" class="img-fluid"></span>
           </div>
           <div class="d-md-flex">
-            <span><img src="871895.png" alt="" class="img-fluid"></span>
-            <span><img src="871897.png" alt="" class="img-fluid"></span>
+            <span><img src="ninjinbatake2.png" alt="" class="img-fluid"></span>
+            <span><img src="871884.png" alt="" class="img-fluid"></span>
           </div>
           <div class="d-md-flex">
-            <span><img src="872465.png" alt="" class="img-fluid"></span>
-            <span><img src="872416.png" alt="" class="img-fluid"></span>
+            <span><img src="ninjin1-up.png" alt="" class="img-fluid"></span>
+            <span><img src="ninjinup-winter.png" alt="" class="img-fluid"></span>
           </div>
-          <div class="d-md-flex">
-            <span><img src="okura-1.png" alt="" class="img-fluid"></span>
-            <span><img src="okura-2.png" alt="" class="img-fluid"></span>
-          </div>
-          <!-- <div class="d-md-flex">
-            <span><img src="872465.png" alt="" class="img-fluid"></span>
-            <span><img src="872416.png" alt="" class="img-fluid"></span>
-          </div> -->
-          <div class="d-md-flex">
-            <span><img src="872441.png" alt="" class="img-fluid"></span>
-          </div>
-
         </div>
       </div>
 
@@ -199,70 +142,55 @@
       <!-- START THE FEATURETTES -->
       <div class="row featurette">
         <div class="col-md-7">
-          <h3></span>土作りから</h3>
+          <h3></span>Meyer Lemon(マイヤーレモン)</h3>
           <p class="lead">
-            8月中旬頃からシャインマスカットの販売が始まります。<br>
-            本当においしいものを生産するため有機栽培､減農薬栽培にこだわっております。
-            まずは農薬などの化学物質がない土地を選び、素晴らしい出雲の大地を活かすため、<br>
-            化学肥料や農薬をほぼ使わず(一部、身体に害のない植物性の液体などはぶどうを種無しにするため使用)、生えてきた雑草を抜き、畑に寝かせて肥料にしております。<br>
-            しかしこれは非常に大変な作業で並大抵の事ではありません。<br>
-            とても肥沃な土地の為、雑草はものすごい勢いで育ちます。<br>
-            生えてくる間隔も短く、放置していると農作物はそだちません。<br>
-            またこの雑草を殺す農薬を使ってしまうと土が汚染され、いい作物が実ることはありません。<br>
-            その土を戻すのに何十年もかかります。<br>
-            この製法で育てるということは気が遠くなるような作業です。<br>
-            しかし、努力の先に実る本物の野菜のおいしさと、大自然の恵みのありがたさを届けるために<br>
-            ひとつひとつ真面目に誠実に取り組んでおります。
+            マイヤーレモンはオレンジとレモンの自然交雑で誕生したといわれる品種です。<br>
+            一般的なレモンと比べ表皮がツルツルしていて、熟してくると色がオレンジがかった
+            濃い色になります。<br>
+            また、酸味が少なくまろやかな味で香りもやや甘い香りがします。<br>
+            レモンほどすっぱくないので果肉を食べる事も出来き、
+            お菓子の材料や料理にも使いやすいです。<br>
+            当園では、樹上でできるだけ完熟させた状態で収穫します。<br>
+            また、輸入レモンは防腐剤が添加されており、
+            なかなか皮ごと使用するのに躊躇される方も多いことと思いますが、
+            農薬、化学肥料は使用していませんので、皮ごとお料理にお使い頂けます。
           </p>
         </div>
         <div class="col-md-5">
-          <div class="d-md-flex">
-            <span><img src="871775.png" alt="" class="img-fluid"></span>
-            <span><img src="872510.png" alt="" class="img-fluid"></span>
-          </div>
-          <div class="d-md-flex">
-            <span><img src="871884.png" alt="" class="img-fluid"></span>
-            <span><img src="871885.png" alt="" class="img-fluid"></span>
-          </div>
-          <div class="d-md-flex">
-            <span><img src="872502.png" alt="" class="img-fluid"></span>
-            <span><img src="872492.png" alt="" class="img-fluid"></span>
-          </div>
-          <div class="d-md-flex">
-            <span><img src="872407.png" alt="" class="img-fluid"></span>
-          </div>
+        <div class="d-md-flex">
+          <span><img src="871895.png" alt="" class="img-fluid"></span>
+          <span><img src="871897.png" alt="" class="img-fluid"></span>
+        </div>
+        <div class="d-md-flex">
+          <span><img src="871857.png" alt="" class="img-fluid"></span>
+          <span><img src="meyer-lemon.png" alt="" class="img-fluid"></span>
+        </div>
+        <div class="d-md-flex">
+          <span><img src="872407.png" alt="" class="img-fluid"></span>
+        </div>
 
         </div>
       </div>
 
       <hr class="featurette-divider">
 
-      <div class="row featurette">
+      <!-- <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h3>出荷まで</span></h3>
+          <h3>夏のぶどうギャラリー</span></h3>
           <p class="lead">
-            7月のぶどう作りでは毎朝早朝からぶどうの木や土をメンテナンスし
-            実がなってくるとぶつかり合い潰れないようにするため、大きくなるまえに間引きという作業を行います。<br>
-            この作業は非常に重要で、大きくなった実を想定して間隔をあけるセンスも問われます。<br>
-            軽く見たり、めんどくさがったりすると成長が早いため、数日でせっかくなった実が腐ってしまいます。<br>
-            しっかり面倒を見ることにより、栄養が行き届き、大きく美しくなります。<br>
-            私達の畑は、一般的な他の畑よりも草もたくさん生えてますし、雑然としています。<br>
-            蛇やカエルもたくさんいて、ぼーっとしていると、いろいろな生物に出くわします。<br>
-            本当に農作物が育つのかと疑問に思う事もありました。<br>
-            しかし、そんな自然の中でもちゃんと育ちました。<br>
-            そんな生命力豊かな八百万の野菜を是非一度ご賞味下さいませ。
+
           </p>
         </div>
         <div class="col-md-5 order-md-1">
-          <div class="d-md-flex">
-            <span><img src="budoubatake.png" alt="" class="img-fluid"></span>
-            <span><img src="872899.png" alt="" class="img-fluid"></span>
-          </div>
-          <div class="d-md-flex">
-            <span><img src="872454.png" alt="" class="img-fluid"></span>
-            <span><img src="872443.png" alt="" class="img-fluid"></span>
-          </div>
-          <div class="d-md-flex">
+          <div class="d-md-flex"> -->
+            <!-- <span><img src="budoubatake.png" alt="" class="img-fluid"></span>
+            <span><img src="872899.png" alt="" class="img-fluid"></span> -->
+          <!-- </div> -->
+          <!-- <div class="d-md-flex">
+            <span><img src="872454.png" alt="" class="img-fluid"></span> -->
+            <!-- <span><img src="872443.png" alt="" class="img-fluid"></span> -->
+          <!-- </div> -->
+          <!-- <div class="d-md-flex">
             <span><img src="budoumany.png" alt="" class="img-fluid"></span>
             <span><img src="871867.png" alt="" class="img-fluid"></span>
           </div>
@@ -271,7 +199,7 @@
           </div>
 
         </div>
-      </div>
+      </div> -->
 
       <div class="row featurette">
         <div>
@@ -301,9 +229,20 @@
 
       <div class="row">
         <div class="d-md-flex">
+          <span><img src="budoubatake-winter.png" alt="" class="img-fluid"></span>
+          <span><img src="shouko-winter.png" alt="" class="img-fluid"></span>
+          <span><img src="872454.png" alt="" class="img-fluid"></span>
+          <span><img src="872443.png" alt="" class="img-fluid"></span>
+        </div>
+        <div class="d-md-flex">
+          <span><img src="budoumany.png" alt="" class="img-fluid"></span>
+          <span><img src="871867.png" alt="" class="img-fluid"></span>
+          <span><img src="budou.png" alt="" class="img-fluid"></span>
+          <span><img src="shouga-winter.png" alt="" class="img-fluid"></span>
+        </div>
+        <div class="d-md-flex">
           <span><img src="872511.png" alt="" class="img-fluid"></span>
           <span><img src="heart.png" alt="" class="img-fluid"></span>
-          <!-- <span><img src="872505.png" alt="" class="img-fluid"></span> -->
           <span><img src="871857.png" alt="" class="img-fluid"></span>
           <span><img src="872404.png" alt="" class="img-fluid"></span>
         </div>
