@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="ja" class="h-100"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。">
+    <title>八百万の野菜</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="index.css">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+  </head>
+
+
+<body class="yaoro">
+
+  <header>
+    <nav class="navbar navbar-expand-md navbar-light  fixed-top bg-light ">
+      <div class="container-fluid">
+        <a class="navbar-brand">八百万の野菜</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse" id="top">
+          <!-- <ul class="navbar-nav me-auto mb-2 mb-md-0">
+            <li class="nav-item active">
+              <a class="nav-link" aria-current="page" href="/">ホーム</a>
+            </li>
+          </ul> -->
+          <div class="me-auto"></div>
+          <div class="d-flex nav-item">
+            <a class="nav-link btn btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+
+    <div id="yaoyorozuCarousel" class="carousel slide yaoyorozu-carousel" data-bs-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-bs-target="#yaoyorozuCarousel" data-bs-slide-to="0" class="active"></li>
+        <li data-bs-target="#yaoyorozuCarousel" data-bs-slide-to="1"></li>
+        <li data-bs-target="#yaoyorozuCarousel" data-bs-slide-to="2"></li>
+        <!-- <li data-bs-target="#yaoyorozuCarousel" data-bs-slide-to="2"></li> -->
+      </ol>
+      <div class="carousel-inner">
+        <!-- carousel-item -->
+        <div class="carousel-item carousel-item1 active bg-secondary">
+          <span class="bd-placeholder-img d-block" style="background-image: url(871867.png);"></span>
+          <div class="container">
+            <div class="carousel-caption text-start">
+              <h2>8月中旬頃より<br>シャインマスカット販売予定</h2>
+              <p>
+                シャインマスカット販売中<br>
+                本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
+              </p>
+              <p>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <!-- ./carousel-item -->
+        <!-- carousel-item -->
+        <div class="carousel-item carousel-item2 bg-secondary">
+          <span class="bd-placeholder-img d-block" style="background-image: url(872443.png);"></span>
+          <div class="container">
+            <div class="carousel-caption text-start">
+              <h2>申し訳ございません。デラウェア販売終了致しました。<br>来年よろしくお願い致します。</h2>
+              <p>
+                本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
+              </p>
+              <p>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <!-- ./carousel-item -->
+        <div class="carousel-item carousel-item３ bg-secondary">
+          <span class="bd-placeholder-img3 d-block" style="background-image: url(okura-1.png);"></span>
+          <div class="container">
+            <div class="carousel-caption text-start">
+              <h2>オクラ販売中</h2>
+              <p>オクラの畑でその遺伝子を継ぐ伝統のオクラ<br>
+                本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
+              </p>
+              <p>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイト</a>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- ./carousel-item -->
+        <div class="carousel-item carousel-item4 bg-secondary">
+          <span class="bd-placeholder-img2 d-block" style="background-image: url(polyphenol.png);"></span>
+          <div class="container">
+            <div class="carousel-caption2 text-start">
+              <h2>ポリフェノールが通常のデラウェアより20倍多い</h2>
+              <p>1億4300万年前からある若返りの果実<br>
+                ポリフェノールは、強い抗酸化力を持ち、ストレスなど生活の様々な場面で発生する活性酸素を除去し、体が酸化することを防ぎます。
+                又、レスベラトロールという成分もあり「若返りの成分」とも呼ばれ注目を集めております。
+              </p>
+              <p>
+                <a class="btn btn-lg btn-danger" href="https://ar10se0938.thebase.in/">販売サイトはこちらをクリック</a>
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <a class="carousel-control-prev" href="#yaoyorozuCarousel" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">前へ</span>
+      </a>
+      <a class="carousel-control-next" href="#yaoyorozuCarousel" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">次へ</span>
+      </a>
+    </div>
+    <div class="container marketing">
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3></span>本当においしいものを届けたい</h3>
+          <p class="lead">
+            今年も大変な夏がやって参りました。シャインマスカット、
+            島オクラを生産しております。島オクラは完全無農薬で
+            JAS認定の有機栽培になります。デラウェアは減農薬栽培で90％減です。ぶどうの実がなる
+            初期のころに、ジベレリンという植物ホルモンを使用し、
+            種無しぶどうを作るのに使用しています。植物ホルモンは、
+            植物が種から実を結ぶのに必要なもので、危険といわれている
+            環境ホルモンとは全く別物です。シャインマスカットは50%農薬をカットした減農薬栽培です。
+            化学肥料は使っておらず、有機肥料のみ使用しております。
+            有機JASで使えるなるべく人体に害の少ないものを使用しております。
+            シャインマスカットは有機が特に難しく、1つでも農薬を減らすと病気や虫が出る可能性が高く、
+            そのリスクもありますが、皮ごと食べられるので、なるべく農薬の回数を減らすことを心がけています。
+            簡単にはいきませんが、シャインマスカットの完全有機栽培をめざし努力しております。
+            シャインマスカットは700gを超えてくると糖度がのりにくくなります。600〜650gが理想かと思います。
+            また、完熟させると黄色くなって糖度も高くなるのですが、
+            マスカットの香りが薄くなって、食感もシャイン独特のパリッとする歯ごたえがなくなってきます。
+            又、黄色くなるまで熟してくると、かすり症という生理障害がでて、粒の表面が茶色く汚れてしまいます。
+            ですので、シャインマスカットの出荷基準の糖度は18度以上になったら
+            見た目も味も香りも一番いいときに出荷致します。<br>
+            オクラは完全無農薬で島オクラというオクラで種はその畑で取れ
+            たオクラの種を使用しております。
+            オクラの畑でその遺伝子を継ぐ伝統のオクラです。
+            実のぷちぷちとした食感が良く、生き生きとしています。
+            赤紫のオクラも稀に育ちます。
+      </p>
+        </div>
+        <div class="col-md-5">
+          <div class="d-md-flex">
+            <span><img src="872402.png" alt="" class="img-fluid"></span>
+            <span><img src="871767.png" alt="" class="img-fluid"></span>
+          </div>
+          <div class="d-md-flex">
+            <span><img src="871895.png" alt="" class="img-fluid"></span>
+            <span><img src="871897.png" alt="" class="img-fluid"></span>
+          </div>
+          <div class="d-md-flex">
+            <span><img src="872465.png" alt="" class="img-fluid"></span>
+            <span><img src="872416.png" alt="" class="img-fluid"></span>
+          </div>
+          <div class="d-md-flex">
+            <span><img src="okura-1.png" alt="" class="img-fluid"></span>
+            <span><img src="okura-2.png" alt="" class="img-fluid"></span>
+          </div>
+          <!-- <div class="d-md-flex">
+            <span><img src="872465.png" alt="" class="img-fluid"></span>
+            <span><img src="872416.png" alt="" class="img-fluid"></span>
+          </div> -->
+          <div class="d-md-flex">
+            <span><img src="872441.png" alt="" class="img-fluid"></span>
+          </div>
+
+        </div>
+      </div>
+
+    <div class="container marketing">
+  <hr class="featurette-divider">
+      <!-- START THE FEATURETTES -->
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3></span>土作りから</h3>
+          <p class="lead">
+            8月中旬頃からシャインマスカットの販売が始まります。<br>
+            本当においしいものを生産するため有機栽培､減農薬栽培にこだわっております。
+            まずは農薬などの化学物質がない土地を選び、素晴らしい出雲の大地を活かすため、<br>
+            化学肥料や農薬をほぼ使わず(一部、身体に害のない植物性の液体などはぶどうを種無しにするため使用)、生えてきた雑草を抜き、畑に寝かせて肥料にしております。<br>
+            しかしこれは非常に大変な作業で並大抵の事ではありません。<br>
+            とても肥沃な土地の為、雑草はものすごい勢いで育ちます。<br>
+            生えてくる間隔も短く、放置していると農作物はそだちません。<br>
+            またこの雑草を殺す農薬を使ってしまうと土が汚染され、いい作物が実ることはありません。<br>
+            その土を戻すのに何十年もかかります。<br>
+            この製法で育てるということは気が遠くなるような作業です。<br>
+            しかし、努力の先に実る本物の野菜のおいしさと、大自然の恵みのありがたさを届けるために<br>
+            ひとつひとつ真面目に誠実に取り組んでおります。
+          </p>
+        </div>
+        <div class="col-md-5">
+          <div class="d-md-flex">
+            <span><img src="871775.png" alt="" class="img-fluid"></span>
+            <span><img src="872510.png" alt="" class="img-fluid"></span>
+          </div>
+          <div class="d-md-flex">
+            <span><img src="871884.png" alt="" class="img-fluid"></span>
+            <span><img src="871885.png" alt="" class="img-fluid"></span>
+          </div>
+          <div class="d-md-flex">
+            <span><img src="872502.png" alt="" class="img-fluid"></span>
+            <span><img src="872492.png" alt="" class="img-fluid"></span>
+          </div>
+          <div class="d-md-flex">
+            <span><img src="872407.png" alt="" class="img-fluid"></span>
+          </div>
+
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7 order-md-2">
+          <h3>出荷まで</span></h3>
+          <p class="lead">
+            7月のぶどう作りでは毎朝早朝からぶどうの木や土をメンテナンスし
+            実がなってくるとぶつかり合い潰れないようにするため、大きくなるまえに間引きという作業を行います。<br>
+            この作業は非常に重要で、大きくなった実を想定して間隔をあけるセンスも問われます。<br>
+            軽く見たり、めんどくさがったりすると成長が早いため、数日でせっかくなった実が腐ってしまいます。<br>
+            しっかり面倒を見ることにより、栄養が行き届き、大きく美しくなります。<br>
+            私達の畑は、一般的な他の畑よりも草もたくさん生えてますし、雑然としています。<br>
+            蛇やカエルもたくさんいて、ぼーっとしていると、いろいろな生物に出くわします。<br>
+            本当に農作物が育つのかと疑問に思う事もありました。<br>
+            しかし、そんな自然の中でもちゃんと育ちました。<br>
+            そんな生命力豊かな八百万の野菜を是非一度ご賞味下さいませ。
+          </p>
+        </div>
+        <div class="col-md-5 order-md-1">
+          <div class="d-md-flex">
+            <span><img src="budoubatake.png" alt="" class="img-fluid"></span>
+            <span><img src="872899.png" alt="" class="img-fluid"></span>
+          </div>
+          <div class="d-md-flex">
+            <span><img src="872454.png" alt="" class="img-fluid"></span>
+            <span><img src="872443.png" alt="" class="img-fluid"></span>
+          </div>
+          <div class="d-md-flex">
+            <span><img src="budoumany.png" alt="" class="img-fluid"></span>
+            <span><img src="871867.png" alt="" class="img-fluid"></span>
+          </div>
+          <div class="d-md-flex">
+            <span><img src="budou.png" alt="" class="img-fluid"></span>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="row featurette">
+        <div>
+          <h2 class="featurette-heading"><span class="text-muted">販売価格、販売時期、配送について</span></h2>
+          <p class="lead">
+            <!-- 【デラウェア 1キロ（6房前後）】<br>
+            ・送料込みで3400円（沖縄、北海道 以外）<br>
+            ・沖縄：税込み3800円、北海道：税込み4000円<br>
+            ・現在販売中<br><br> -->
+
+            【シャインマスカット 1.2キロ（2房）】<br>
+            ・4800円(送料無料)<br>
+            <!-- ・沖縄：税込み5200円、北海道：税込み5400円<br> -->
+            <!-- ・8月下旬より販売　販売サイトのお問い合わせより予約可能<br><br> -->
+
+            【島オクラ　1キロ】<br>
+            ・2980円(送料無料)<br>
+            <!-- ・沖縄：税込み3380円、北海道：税込み3580円<br> -->
+            <!-- ・8月上旬より販売開始　販売サイトのお問い合わせより予約可能<br><br> -->
+            【配送について】<br>
+            繁忙期の業務都合上、誠に申し訳ございませんが、時間指定のみ可能であり、曜日指定は行っておりません。発送次第ご連絡致します。<br>
+            お手数おかけしますが、ご了承くださいますようお願い申し上げます。<br>
+          </p>
+        </div>
+      </div>
+
+
+      <div class="row">
+        <div class="d-md-flex">
+          <span><img src="872511.png" alt="" class="img-fluid"></span>
+          <span><img src="heart.png" alt="" class="img-fluid"></span>
+          <!-- <span><img src="872505.png" alt="" class="img-fluid"></span> -->
+          <span><img src="871857.png" alt="" class="img-fluid"></span>
+          <span><img src="872404.png" alt="" class="img-fluid"></span>
+        </div>
+        <div class="d-md-flex">
+          <span><img src="872442.png" alt="" class="img-fluid"></span>
+          <span><img src="872408.png" alt="" class="img-fluid"></span>
+          <span><img src="871820.png" alt="" class="img-fluid"></span>
+          <span><img src="871790.png" alt="" class="img-fluid"></span>
+        </div>
+      </div>
+
+
+      <hr class="featurette-divider">
+
+      <!-- /END THE FEATURETTES -->
+
+    </div><!-- /.container -->
+
+    <!-- FOOTER -->
+    <footer class="container">
+      <p class="float-end"><a href="#top">トップに戻る</a></p>
+      <p>&copy; Yaoyorozu</p>
+    </footer>
+  </main>
+
+  <!-- JavaScript Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+</html>
