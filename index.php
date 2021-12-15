@@ -68,7 +68,7 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(ninjin-2up-o.png);"></span>
             <div class="container">
             <div class="carousel-caption text-start">
-              <h2>八百万のにんじん　現在サイト構築中</h2>
+              <h2>八百万のにんじん</h2>
               <p>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
@@ -84,7 +84,7 @@
           <span class="bd-placeholder-img d-block" style="background-image: url(meyer-lemon.png);"></span>
           <div class="container">
             <div class="carousel-caption text-start">
-              <h2>Meyer Lemon(マイヤーレモン)現在サイト構築中</h2>
+              <h2>Meyer Lemon(マイヤーレモン)</h2>
               <p>
                 本当においしいものを生産するため有機栽培と減農薬栽培にこだわっております。
               </p>
@@ -224,7 +224,16 @@
           <span><img src="budoubatake-winter.png" alt="" class="img-fluid"></span>
           <span><img src="shouko-winter.png" alt="" class="img-fluid"></span>
           <span><img src="872454.png" alt="" class="img-fluid"></span>
-          <span><img src="872443.png" alt="" class="img-fluid"></span>
+          <span><img src="872443.png"マイヤーレモンはオレンジとレモンの自然交雑で誕生したといわれる品種です。
+一般的なレモンと比べ表皮がツルツルしていて、熟してくると色がオレンジがかった
+濃い色になります。
+また、酸味が少なくまろやかな味で香りもやや甘い香りがします。
+レモンほどすっぱくないので果肉を食べる事も出来き、
+お菓子の材料や料理にも使いやすいです。
+当園では、樹上でできるだけ完熟させた状態で収穫します。
+また、輸入レモンは防腐剤が添加されており、
+なかなか皮ごと使用するのに躊躇される方も多いことと思いますが、
+農薬、化学肥料は使用していませんので、皮ごとお料理にお使い頂けます。 alt="" class="img-fluid"></span>
         </div>
         <div class="d-md-flex">
           <span><img src="budoumany.png" alt="" class="img-fluid"></span>
