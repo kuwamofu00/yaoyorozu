@@ -65,7 +65,7 @@
         <div class="carousel-item carousel-item1 active bg-secondary">
           <!-- <span class="bd-placeholder-img d-block" style="background-image: url(ninjinbatake-800-450.png);"></span> -->
           <!-- <span class="bd-placeholder-img d-block" style="background-image: url(ninjinbatake.png);"></span> -->
-          <span class="bd-placeholder-img d-block" style="background-image: url(ninjin2-yoko.png);"></span>
+          <span class="bd-placeholder-img d-block" style="background-image: url(ninjin-2up-o.png);"></span>
             <div class="container">
             <div class="carousel-caption text-start">
               <h2>八百万のにんじん　現在サイト構築中</h2>
@@ -131,7 +131,7 @@
             <span><img src="871884.png" alt="" class="img-fluid"></span>
           </div>
           <div class="d-md-flex">
-            <span><img src="ninjin1-up.png" alt="" class="img-fluid"></span>
+            <span><img src="ninjin-1up-o.png" alt="" class="img-fluid"></span>
             <span><img src="ninjinup-winter.png" alt="" class="img-fluid"></span>
           </div>
         </div>
@@ -205,21 +205,15 @@
         <div>
           <h2 class="featurette-heading"><span class="text-muted">販売価格、販売時期、配送について</span></h2>
           <p class="lead">
-            <!-- 【デラウェア 1キロ（6房前後）】<br>
-            ・送料込みで3400円（沖縄、北海道 以外）<br>
-            ・沖縄：税込み3800円、北海道：税込み4000円<br>
-            ・現在販売中<br><br> -->
-
-            <!-- 【シャインマスカット 1.2キロ（2房）】<br>
-            ・4800円(送料無料)<br> -->
-            <!-- ・沖縄：税込み5200円、北海道：税込み5400円<br> -->
-            <!-- ・8月下旬より販売　販売サイトのお問い合わせより予約可能<br><br> -->
-
-/            <!-- ・沖縄：税込み3380円、北海道：税込み3580円<br> -->
-            <!-- ・8月上旬より販売開始　販売サイトのお問い合わせより予約可能<br><br> -->
-            <!-- 【配送について】<br>
-            繁忙期の業務都合上、誠に申し訳ございませんが、時間指定のみ可能であり、曜日指定は行っておりません。発送次第ご連絡致します。<br>
-            お手数おかけしますが、ご了承くださいますようお願い申し上げます。<br> -->
+            【有機 マイヤーレモン】<br>
+            ・1㌔¥2500(送料込み) 80サイズ箱<br>
+            ・3㌔¥5300(送料込み) 100サイズ箱<br>
+            ※沖縄、北海道、東北からのご注文の方はkuwamofu@gmail.comへご連絡下さい<br><br>
+            【有機 八百万のんじん】<br>
+            ・1㌔¥1700(送料込み) 80サイズ箱<br>
+            ・3㌔¥2700(送料込み) 100サイズ箱<br>
+            ・5㌔¥3700(送料込み) 120サイズ箱<br>
+            ※沖縄、北海道、東北からのご注文の方はkuwamofu@gmail.comへご連絡下さい<br><br>
           </p>
         </div>
       </div>
