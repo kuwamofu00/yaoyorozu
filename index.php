@@ -208,11 +208,13 @@
             【有機 マイヤーレモン】<br>
             ・1㌔¥2500(送料込み) 80サイズ箱<br>
             ・3㌔¥5300(送料込み) 100サイズ箱<br>
+            ※サイズは大小混合で箱詰めします。
             ※沖縄、北海道、東北からのご注文の方はkuwamofu@gmail.comへご連絡下さい<br><br>
             【有機 八百万のんじん】<br>
             ・1㌔¥1700(送料込み) 80サイズ箱<br>
             ・3㌔¥2700(送料込み) 100サイズ箱<br>
             ・5㌔¥3700(送料込み) 120サイズ箱<br>
+            ※サイズは大小混合で箱詰めします。
             ※沖縄、北海道、東北からのご注文の方はkuwamofu@gmail.comへご連絡下さい<br><br>
           </p>
         </div>
@@ -224,16 +226,7 @@
           <span><img src="budoubatake-winter.png" alt="" class="img-fluid"></span>
           <span><img src="shouko-winter.png" alt="" class="img-fluid"></span>
           <span><img src="872454.png" alt="" class="img-fluid"></span>
-          <span><img src="872443.png"マイヤーレモンはオレンジとレモンの自然交雑で誕生したといわれる品種です。
-一般的なレモンと比べ表皮がツルツルしていて、熟してくると色がオレンジがかった
-濃い色になります。
-また、酸味が少なくまろやかな味で香りもやや甘い香りがします。
-レモンほどすっぱくないので果肉を食べる事も出来き、
-お菓子の材料や料理にも使いやすいです。
-当園では、樹上でできるだけ完熟させた状態で収穫します。
-また、輸入レモンは防腐剤が添加されており、
-なかなか皮ごと使用するのに躊躇される方も多いことと思いますが、
-農薬、化学肥料は使用していませんので、皮ごとお料理にお使い頂けます。 alt="" class="img-fluid"></span>
+          <span><img src="872443.png" alt="" class="img-fluid"></span>
         </div>
         <div class="d-md-flex">
           <span><img src="budoumany.png" alt="" class="img-fluid"></span>
